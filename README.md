@@ -26,3 +26,8 @@
 
 ### 🎯 Soft Skills
 **Adaptability** · **Proactivity** · **Autodidact** · **Teamwork** · **Communication** · **Collaboration** · **Creativity**
+
+### 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-azevedo-43739a2a3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpedro8azevedo/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaopedroabr@gmail.com)
