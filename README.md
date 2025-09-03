@@ -1,5 +1,6 @@
 <h1 align="center">João Pedro Azevedo do Nascimento</h1>
 <h3 align="center">Full Stack Developer and Test Engineer </h3>
+<h3 align="center">Graduating in Computer Science at UFCG </h3>
 
 ### 💼 Professional Experiences
 - I worked as Full Stack Developer at Code Tech for 1 year and 2 months (July 2024 to August 2025)
