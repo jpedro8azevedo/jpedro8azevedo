@@ -1,12 +1,12 @@
 <h1 align="center">João Pedro Azevedo do Nascimento</h1>
-<h3 align="center">Full Stack Developer and Test Engineer </h3>
+<h3 align="center">Full Stack Developer and QA Automation </h3>
 <h3 align="center">Graduating in Computer Science at UFCG </h3>
 
 ### 💼 Professional Experiences
 - I worked as Full Stack Developer at Code Tech for 1 year and 2 months (July 2024 to August 2025)
-> At Code Tech, i worked with Angular (HTML, CSS, Bootstrap, Typescript), NestJS and MongoDB
-- Since August 2025, i'm a P&DI Student and work as a Test Engineer at VIRTUS
-> At VIRTUS, i work with Cypress
+> At Code Tech, I worked with Angular (HTML, CSS, Bootstrap, Typescript), NestJS and MongoDB
+- Since August 2025, I'm a P&DI Student and work as a QA Automation at VIRTUS
+> At VIRTUS, I work with Cypress
 
 ### 🖥️ Hard Skills
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
