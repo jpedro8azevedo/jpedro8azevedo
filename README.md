@@ -26,7 +26,7 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### 🎯 Soft Skills
-**Adaptability** · **Responsibility** · **Proactivity** · **Autodidact** · **Teamwork** · **Communication** · **Collaboration** · **Creativity**
+**Adaptability** · **Autodidact** · **Collaboration** · **Communication** · **Creativity** · **Proactivity** · **Punctuality** · **Responsibility** · **Teamwork**
 
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-azevedo-43739a2a3)
