@@ -5,7 +5,7 @@
 ### 💼 Professional Experiences
 - I worked as Full Stack Developer at Code Tech for 1 year and 2 months (July 2024 to August 2025)
 > At Code Tech, I worked with Angular (HTML, CSS, Bootstrap, Typescript), NestJS and MongoDB
-- Since August 2025, I'm a P&DI Student and work as a QA Automation at VIRTUS
+- Since August 2025, I'm a PD&I Student and work as a QA Automation at VIRTUS
 > At VIRTUS, I work with Cypress
 
 ### 🖥️ Hard Skills
